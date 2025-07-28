@@ -7,7 +7,6 @@
 
 A secure, modern password encryption and decryption system with a beautiful dark cyber-themed GUI. Built with Java Swing, featuring AES-256 encryption and SHA-256 hashing for maximum security.
 
-![Password Encryptor Pro](https://via.placeholder.com/800x400/121212/00FF7F?text=Password+Encryptor+Pro)
 
 ## ✨ Features
 
