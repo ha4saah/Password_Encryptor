@@ -40,8 +40,8 @@ A secure, modern password encryption and decryption system with a beautiful dark
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/password-encryptor.git
-   cd password-encryptor
+   git clone https://github.com/ha4saah/password_encryptor.git
+   cd password_encryptor
    ```
 
 2. **Compile the application**
@@ -214,9 +214,6 @@ We welcome contributions! Please feel free to submit a Pull Request.
 - Test thoroughly before submitting
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
